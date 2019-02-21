@@ -13,8 +13,7 @@
 		"mocha": true
 	},
 	"plugins": [
-		"flowtype",
-		"mocha"
+		"flowtype"
 	],
 	"extends": [
 		"eslint:recommended",
